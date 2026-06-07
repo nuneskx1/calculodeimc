@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("calculodeimc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ca1f2c64c65ac9a7fdb52a564d0d52ccbb0fd9c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5320d5efb26814d2bb5719c157caf6f6e3357d2f")]
 [assembly: System.Reflection.AssemblyProductAttribute("calculodeimc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("calculodeimc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
